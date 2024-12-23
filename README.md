@@ -24,7 +24,7 @@ Bu proje, kural tabanlı bir chatbot geliştirme üzerine yapılmıştır. Chatb
   
   ```bash
      python main.py
-```
+  ```
 
 ## Ekran Görüntüleri
 ![image](https://github.com/user-attachments/assets/659bea31-5f58-48b0-a46a-ae36f36c74d5)
