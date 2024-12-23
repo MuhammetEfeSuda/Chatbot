@@ -7,7 +7,7 @@ Bu proje, kural tabanlı bir chatbot geliştirme üzerine yapılmıştır. Chatb
 
 1. **Python Kurun:**
 
-     Python 3.6 veya daha yüksek bir sürümü yükleyin. Python İndir
+     Python 3.6 veya daha yüksek bir sürümü yükleyin.
 
 2. Nltk Kütüphanesini kurun:
   
