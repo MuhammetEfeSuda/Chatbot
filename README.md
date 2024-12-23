@@ -1,5 +1,5 @@
 # Chatbot
-Bu proje, kural tabanlı bir chatbot geliştirme üzerine yapılmıştır. Chatbot, kullanıcıların belirli sorulara verdiği cevaplara göre uygun yanıtları sunmaktadır.
+Bu proje, kural tabanlı bir chatbot geliştirme üzerine yapılmıştır. Chatbot, kullanıcıların sorduğu sorulara göre uygun yanıtları sunmaktadır.
 
 ![image](https://github.com/user-attachments/assets/1cc89ab6-57bd-4f48-9c47-c76675d80b8a)
 
