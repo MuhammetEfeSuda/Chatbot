@@ -19,8 +19,14 @@ Bu proje, kural tabanlı bir chatbot geliştirme üzerine yapılmıştır. Chatb
    ```bash
      import nltk
      nltk.download('punkt')
+   
+4. FuzzyWuzzy Kütüphanesini kurun:
+  
+   ```bash
+     pip install fuzzywuzzy
+   
 
-4. Projeyi çalıştırmak için main.py dosyasını çalıştırın:
+5. Projeyi çalıştırmak için main.py dosyasını çalıştırın:
   
    ```bash
      python main.py
